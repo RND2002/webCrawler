@@ -41,3 +41,8 @@ This is a simple Go program that fetches and parses data from a list of URLs con
    ```bash
    git clone https://github.com/RND2002/webCrawler.git
    cd go-url-fetcher
+
+   go get github.com/PuerkitoBio/goquery
+
+   go run main.go
+
