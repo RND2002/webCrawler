@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Welcome to CodeSite",
+    "url": "https://aryandwivedi.me/",
+    "metadata": "description: Web site created using create-react-app\n",
+    "Link": ""
+  },
+  {
+    "title": "Google",
+    "url": "https://www.google.com",
+    "metadata": "",
+    "Link": "https://www.google.co.in/webhp?tab=ww"
+  },
+  {
+    "title": "Aryan Dwivedi",
+    "url": "https://aryandwi.netlify.app",
+    "metadata": "",
+    "Link": ""
+  },
+  {
+    "title": "\n          Let’s build from here\n        ",
+    "url": "https://www.github.com",
+    "metadata": "description: GitHub is where over 100 million developers shape the future of software, together. Contribute to the open source community, manage your Git repositories, review code like a pro, track bugs and features, power your CI/CD and DevOps workflows, and secure code before you commit it.\nOpenGraph Title: GitHub: Let’s build from here\n",
+    "Link": "#start-of-content"
+  },
+  {
+    "title": "Example Domain",
+    "url": "https://www.example.com",
+    "metadata": "",
+    "Link": "https://www.iana.org/domains/example"
+  },
+  {
+    "title": "Medium: Read and write stories.",
+    "url": "https://www.medium.com",
+    "metadata": "description: On Medium, anyone can share insightful perspectives, useful knowledge, and life wisdom with the world.\nOpenGraph Title: Medium: Read and write stories.\n",
+    "Link": "/"
+  }
+]
